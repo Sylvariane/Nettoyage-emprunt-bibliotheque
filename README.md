@@ -1,15 +1,5 @@
-# prets_bibliotheque
+# Nettoyage de données d'un fichier .csv
 
-(en cours...)
+Ce projet est un petit projet personnel où j'ai essayé d'utiliser mes compétences en nettoyage de données sur un jeu de données open-source. Le jeu de données utilisé a été téléchargé à partir du site : www.data.gouv.fr. Il contient la liste des oeuvres les plus empruntés dans les bibliothèques parisiennes au cours de l'année 2017.
 
-Il s'agit d'un petit projet de data science basé sur un fichier contenant les documents les plus empruntés dans les bibliothèques parisiennes en 2017. Ce fichier a été téléchargé sur le site du gouvernement : data.gouv.fr.
-
-1 - Nettoyage
-
-La première partie consiste en un script de nettoyage des données. On y recherche avant tout les valeurs manquantes, les valeurs aberrantes et les données dupliquées. A la fin de cette partie, le script génère un autre fichier csv qui contient les modifications en lien avec le nettoyage.
-
-2 - Analyses exploratoires des données (en cours...)
-
-Cette deuxième partie contient des analyses descriptives univariées ainsi que des analyses bivariées. On va chercher à trouver des corrélations dans le but de soumettre des recommandations pour de futurs achats.
-
-3 - Conclusion (à venir)
+Le notebook contient le script de nettoyage crée pour ce jeu de données avec la procédure pour tenter de compléter certaines données manquantes. A la fin de ce script, un fichier .csv est généré. Ce fichier pourra être utilisé pour des analyses descriptives et d'autres tests statistiques.
