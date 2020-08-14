@@ -1,5 +1,7 @@
 # prets_bibliotheque
 
+(en cours...)
+
 Il s'agit d'un petit projet de data science basé sur un fichier contenant les documents les plus empruntés dans les bibliothèques parisiennes en 2017. Ce fichier a été téléchargé sur le site du gouvernement : data.gouv.fr.
 
 1 - Nettoyage
